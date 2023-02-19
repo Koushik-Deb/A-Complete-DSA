@@ -1,0 +1,16 @@
+Palindrome 
+1. https://leetcode.com/problems/find-palindrome-with-fixed-length/
+
+Merge Two List
+1. https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
+2. https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/
+3. https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/
+4. https://leetcode.com/problems/shortest-word-distance-ii/
+
+Single Number
+1. https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
+2. https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
+3. https://leetcode.com/problems/escape-the-spreading-fire/
+
+Contains Duplicate
+1. https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
