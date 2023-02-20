@@ -39,4 +39,18 @@ Number of Good Pairs
 Richest Customer Wealth
 1. https://leetcode.com/problems/maximum-binary-tree/
 2. https://leetcode.com/problems/valid-tic-tac-toe-state/
-3. https://leetcode.com/problems/closest-room/ 
+3. https://leetcode.com/problems/closest-room/
+
+Build Array From Permutation
+1. https://leetcode.com/problems/find-anagram-mappings/
+2. https://leetcode.com/problems/smallest-common-region/
+3. https://leetcode.com/problems/decode-xored-permutation/
+
+Concatenation of Array
+1. https://leetcode.com/problems/path-sum-iv/
+2. https://leetcode.com/problems/maximum-score-of-a-node-sequence/
+3. https://leetcode.com/problems/maximum-profit-from-trading-stocks/
+
+FizzBuzz
+1. https://leetcode.com/problems/fizz-buzz-multithreaded/
+2. https://leetcode.com/problems/categorize-box-according-to-criteria/
