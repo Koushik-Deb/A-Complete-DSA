@@ -14,3 +14,29 @@ Single Number
 
 Contains Duplicate
 1. https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
+
+Valid Anagram
+1. https://leetcode.com/problems/palindrome-permutation/
+
+Fibonacci Number
+1. https://leetcode.com/problems/split-array-into-fibonacci-sequence/
+2. https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+
+Defanging an IP Address
+1. https://leetcode.com/problems/split-array-into-fibonacci-sequence/
+2. https://leetcode.com/problems/groups-of-special-equivalent-strings/
+3. https://leetcode.com/problems/string-matching-in-an-array/
+
+Running Sum of 1d Array
+1. https://leetcode.com/problems/rank-transform-of-a-matrix/
+2. https://leetcode.com/problems/check-if-n-and-its-double-exist/
+3. https://leetcode.com/problems/minimum-number-of-keypresses/
+
+Number of Good Pairs
+1. https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
+3. https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
+
+Richest Customer Wealth
+1. https://leetcode.com/problems/maximum-binary-tree/
+2. https://leetcode.com/problems/valid-tic-tac-toe-state/
+3. https://leetcode.com/problems/closest-room/ 
