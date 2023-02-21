@@ -1,2 +1,7 @@
 Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 1. https://leetcode.com/problems/count-subarrays-with-median-k/
+
+Substrings of Size Three with Distinct Characters
+1. https://leetcode.com/problems/wildcard-matching/
+2. https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
+3. https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
