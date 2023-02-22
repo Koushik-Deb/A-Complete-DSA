@@ -1,0 +1,9 @@
+Capacity To Ship Packages Within D Days
+1. https://leetcode.com/problems/koko-eating-bananas/
+2. https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+3. https://leetcode.com/problems/magnetic-force-between-two-balls/
+4. https://leetcode.com/problems/split-array-largest-sum/
+5. https://leetcode.com/problems/divide-chocolate/
+6. https://leetcode.com/problems/cutting-ribbons/
+7. https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/
+8. https://leetcode.com/problems/minimum-total-distance-traveled/
