@@ -1,0 +1,18 @@
+Largest Rectangle in Histogram
+1. https://leetcode.com/problems/maximal-rectangle/
+2. https://leetcode.com/problems/maximum-score-of-a-good-subarray/
+
+Trapping Rain Water
+1. https://leetcode.com/problems/trapping-rain-water-ii/
+2. https://leetcode.com/problems/pour-water/
+
+Final Prices With a Special Discount in a Shop
+1. https://leetcode.com/problems/shortest-completing-word/
+2. https://leetcode.com/problems/find-a-peak-element-ii/
+3. https://leetcode.com/problems/put-marbles-in-bags/
+
+Next Greater Element I
+1. https://leetcode.com/problems/sum-of-subarray-ranges/ 
+2. https://leetcode.com/problems/sum-of-total-strength-of-wizards/
+3. https://leetcode.com/problems/next-greater-element-iv/
+4. https://leetcode.com/problems/remove-nodes-from-linked-list/

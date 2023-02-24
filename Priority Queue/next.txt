@@ -1,0 +1,4 @@
+Minimize Deviation in Array
+1. https://leetcode.com/problems/design-phone-directory/
+2. https://leetcode.com/problems/minimum-cost-to-connect-sticks/
+3. https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
