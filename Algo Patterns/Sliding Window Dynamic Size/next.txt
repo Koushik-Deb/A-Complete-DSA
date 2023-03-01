@@ -1,0 +1,10 @@
+Longest Substring Without Repeating Characters
+1. https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+2. https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/
+3. https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/
+4. https://leetcode.com/problems/subarrays-with-k-different-integers/description/
+
+Max Consecutive Ones
+1. https://leetcode.com/problems/predict-the-winner/description/
+2. https://leetcode.com/problems/max-consecutive-ones-ii/description/
+3. https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/description/

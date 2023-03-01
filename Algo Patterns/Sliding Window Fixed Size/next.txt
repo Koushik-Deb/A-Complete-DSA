@@ -5,3 +5,18 @@ Substrings of Size Three with Distinct Characters
 1. https://leetcode.com/problems/wildcard-matching/
 2. https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 3. https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
+
+Find All Anagrams in a String
+1. https://leetcode.com/problems/ternary-expression-parser/description/
+2. https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/description/
+3. https://leetcode.com/problems/similar-string-groups/description/
+4. https://leetcode.com/problems/sentence-similarity-ii/description/
+
+Permutation in String
+1. https://leetcode.com/problems/maximum-vacation-days/description/
+2. https://leetcode.com/problems/valid-palindrome-iv/description/
+3. https://leetcode.com/problems/jump-game-vii/description/
+4. https://leetcode.com/problems/add-bold-tag-in-string/description/
+
+Maximum Average Subarray I
+1. https://leetcode.com/problems/maximum-average-subarray-ii/description/
