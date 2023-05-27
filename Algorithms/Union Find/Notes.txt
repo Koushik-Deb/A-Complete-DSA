@@ -1,0 +1,7 @@
+In Union Find Algorithm, the algo must be 
+
+1. Reflexive - p is connected to p
+2. Symmetric - If p is connected to q, q is connected to p.
+3. Transitive - If p is connected to q and q is connected to r, then p is connected to r.
+
+Connected Components - Maximal set of objects that are mutually connected.

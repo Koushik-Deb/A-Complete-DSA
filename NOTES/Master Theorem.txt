@@ -1,0 +1,23 @@
+1. MASTER THEOREM FOR DECREASING FUNCTION
+    T(n) = aT(n-b) + f(n) where a>0, b>0, f(n) = O(n^k), k>=0
+
+    * If a<1 : T(n) = O(n^k)
+    * If a==1 : T(n) = O(n^k * n) 
+    * If a>1 : T(n) = O(n^k * a^(n/b))
+
+
+2. MASTER THEOREM FOR DIVIDING FUNCTION
+    T(n) = aT(n/b) + f(n) where a>=1, b>1, f(n) = O(n^k * log^(p)n)
+
+    Two things to consider. 
+        # log(a) base b = variable1
+        # k = variable2
+    
+    * If variable1 > variable2 : T(n) = O(n^variable1)
+    * If variable1 == variable2 :
+            $ If p<-1 : T(n) = O(n^k)
+            $ If p=-1 : T(n) = O(n^k * loglogn)
+            $ If p>-1 : T(n) = O(n^k * log^(p+1)n)
+    * If variable1 < variable2:
+            $ If p>=0 : T(n) = f(n)
+            $ If p<0 : T(n) = O(n^k)
