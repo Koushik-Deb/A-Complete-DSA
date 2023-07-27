@@ -1,0 +1,17 @@
+Patience Sort - https://www.youtube.com/watch?v=on2hvxBXJH4
+
+LIS 
+1. https://leetcode.com/problems/maximum-length-of-pair-chain/
+2. https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+3. https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
+4. https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/
+5. https://leetcode.com/problems/longest-ideal-subsequence/
+6. https://leetcode.com/problems/maximum-number-of-books-you-can-take/
+7. https://leetcode.com/problems/longest-increasing-subsequence-ii/
+
+
+Number of Longest Increasing Subsequence
+https://leetcode.com/problems/number-of-longest-increasing-subsequence/submissions/
+
+1. https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+2. https://leetcode.com/problems/longest-increasing-subsequence-ii/
